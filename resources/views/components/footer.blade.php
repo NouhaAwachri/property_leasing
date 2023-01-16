@@ -1,0 +1,1 @@
+<img class="w-full" src="/images_property/footercity.png" alt="">
